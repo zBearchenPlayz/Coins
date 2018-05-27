@@ -1,0 +1,22 @@
+# Configuration file for CoinSystem
+# CoinSystem by @zBearchenPlayz
+
+#If you need help, look at the ReadMe.md
+
+
+#Every change needs an Server Restart!
+
+
+#Language of the Plugin: only supportet eng
+language: eng
+
+#Choose which type of Provider you want to use: only supported mysql
+provider: mysql
+
+
+#MySQl Connection Options
+MySQL:
+    host: "example.net:3306"
+    username: "YourUser"
+    password: "password123"
+    password: "CoinSystem"
